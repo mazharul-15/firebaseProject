@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1091931348767",
+    "firebase_url": "https://studentinfo-d04ac-default-rtdb.firebaseio.com",
+    "project_id": "studentinfo-d04ac",
+    "storage_bucket": "studentinfo-d04ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091931348767:android:e276e9f13e88a85ef1da2a",
+        "android_client_info": {
+          "package_name": "com.example.studentinfo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbljw7b46sv-EX8UQyTYUkurOCttXVgZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
