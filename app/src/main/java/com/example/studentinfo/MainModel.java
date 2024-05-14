@@ -40,8 +40,8 @@ public class MainModel {
         this.url = url;
     }
 
-    public int getAge() {
-        return age;
+    public String getAge() {
+        return String.valueOf(age);
     }
 
     public void setAge(int age) {
